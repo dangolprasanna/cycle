@@ -1,0 +1,11 @@
+$primary-color: #09090A;
+$secondary-color: #3E3E3E;
+$hover-color: #848484;
+$bright-color: #ff3952;
+$main-font: 'Poppins',
+sans-serif;
+$heading-font: 'Saira Semi Condensed',
+sans-serif;
+@mixin transition-ease {
+    transition: all 0.4s ease;
+}
